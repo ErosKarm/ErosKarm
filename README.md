@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://i.postimg.cc/TwtdPT4Q/linkedinbanner.jpg"  />
+<img align="left" height="240" src="https://i.postimg.cc/TwtdPT4Q/linkedinbanner.jpg"  />
 
 ###
 
