@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="240" src="https://i.postimg.cc/TwtdPT4Q/linkedinbanner.jpg"  />
+  <img height="220" src="https://i.postimg.cc/TwtdPT4Q/linkedinbanner.jpg"  />
 </div>
 
 ###
